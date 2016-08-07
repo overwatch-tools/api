@@ -1,0 +1,29 @@
+{
+  "name": "api.overwatch-tools.com",
+  "version": "1.0.0",
+  "description": "websocket api for ovewatch tools",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "engine.io": "^1.6.11",
+    "mongodb": "^2.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overwatch-tools/api.git"
+  },
+  "keywords": [
+    "overwatch",
+    "counter-picker",
+    "gaming"
+  ],
+  "author": "Alexandre Paquette <alexandre.paquette@nadrox.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overwatch-tools/api/issues"
+  },
+  "homepage": "https://github.com/overwatch-tools/api#readme"
+}
