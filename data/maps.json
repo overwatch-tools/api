@@ -1,149 +1,172 @@
-[
-  {
-    "id": "gibof",
-    "name": "Gibraltar",
-    "type": "Escort",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg"
-  },
-  {
-    "id": "gibdef",
-    "name": "Gibraltar",
-    "type": "Escort",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg"
-  },
-  {
-    "id": "dorof",
-    "name": "Dorado",
-    "type": "Escort",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg"
-  },
-  {
-    "id": "dordef",
-    "name": "Dorado",
-    "type": "Escort",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg"
-  },
-  {
-    "id": "rouof",
-    "name": "Route 66",
-    "type": "Escort",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg"
-  },
-  {
-    "id": "roudef",
-    "name": "Route 66",
-    "type": "Escort",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg"
-  },
-  {
-    "id": "anuof",
-    "name": "Temple of Anubis",
-    "type": "Assault",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg"
-  },
-  {
-    "id": "anudef",
-    "name": "Temple of Anubis",
-    "type": "Assault",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg"
-  },
-  {
-    "id": "hanof",
-    "name": "Hanamura",
-    "type": "Assault",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg"
-  },
-  {
-    "id": "handef",
-    "name": "Hanamura",
-    "type": "Assault",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg"
-  },
-  {
-    "id": "volof",
-    "name": "Volskaya",
-    "type": "Assault",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg"
-  },
-  {
-    "id": "voldef",
-    "name": "Volskaya",
-    "type": "Assault",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg"
-  },
-  {
-    "id": "kinof",
-    "name": "King's Row",
-    "type": "Hybrid",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/kings-row-thumb.jpg"
-  },
-  {
-    "id": "kindef",
-    "name": "King's Row",
-    "type": "Hybrid",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/kings-row-thumb.jpg"
-  },
-  {
-    "id": "numof",
-    "name": "Numbani",
-    "type": "Hybrid",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/numbani-thumb.jpg"
-  },
-  {
-    "id": "numdef",
-    "name": "Numbani",
-    "type": "Hybrid",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/numbani-thumb.jpg"
-  },
-  {
-    "id": "holof",
-    "name": "Hollywood",
-    "type": "Hybrid",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hollywood-thumb.jpg"
-  },
-  {
-    "id": "holdef",
-    "name": "Hollywood",
-    "type": "Hybrid",
-    "mode": "D",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hollywood-thumb.jpg"
-  },
-  {
-    "id": "lij",
-    "name": "Lijiang",
-    "type": "KOTH",
-    "mode": "KOTH",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/lijiang-thumb.jpg"
-  },
-  {
-    "id": "nep",
-    "name": "Nepal",
-    "type": "KOTH",
-    "mode": "KOTH",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/nepal-thumb.jpg"
-  },
-  {
-    "id": "ill",
-    "name": "Illios",
-    "type": "KOTH",
-    "mode": "KOTH",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/ilios-thumb.jpg"
-  }
-]
+{
+  "groups": [
+    {
+      "name": "Gibraltar",
+      "type": "Escort",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg",
+      "modes": [
+        {
+          "id": "gibof",
+          "mode": "O"
+        },
+        {
+          "id": "gibdef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Dorado",
+      "type": "Escort",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg",
+      "modes": [
+        {
+          "id": "dorof",
+          "mode": "O"
+        },
+        {
+          "id": "dordef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Route 66",
+      "type": "Escort",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg",
+      "modes": [
+        {
+          "id": "rouof",
+          "mode": "O"
+        },
+        {
+          "id": "roudef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Temple of Anubis",
+      "type": "Assault",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg",
+      "modes": [
+        {
+          "id": "anuof",
+          "mode": "O"
+        },
+        {
+          "id": "anudef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Hanamura",
+      "type": "Assault",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg",
+      "modes": [
+        {
+          "id": "hanof",
+          "mode": "O"
+        },
+        {
+          "id": "handef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Volskaya",
+      "type": "Assault",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg",
+      "modes": [
+        {
+          "id": "volof",
+          "mode": "O"
+        },
+        {
+          "id": "voldef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "King's Row",
+      "type": "Hybrid",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/kings-row-thumb.jpg",
+      "modes": [
+        {
+          "id": "kinof",
+          "mode": "O"
+        },
+        {
+          "id": "kindef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Numbani",
+      "type": "Hybrid",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/numbani-thumb.jpg",
+      "modes": [
+        {
+          "id": "numof",
+          "mode": "O"
+        },
+        {
+          "id": "numdef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "type": "Hybrid",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hollywood-thumb.jpg",
+      "modes": [
+        {
+          "id": "holof",
+          "mode": "O"
+        },
+        {
+          "id": "holdef",
+          "mode": "D"
+        }
+      ]
+    },
+    {
+      "name": "Lijiang",
+      "type": "KOTH",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/lijiang-thumb.jpg",
+      "modes": [
+        {
+          "id": "lij",
+          "mode": "KOTH"
+        }
+      ]
+    },
+    {
+      "name": "Nepal",
+      "type": "KOTH",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/nepal-thumb.jpg",
+      "modes": [
+        {
+          "id": "nep",
+          "mode": "KOTH"
+        }
+      ]
+    },
+    {
+      "name": "Illios",
+      "type": "KOTH",
+      "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/ilios-thumb.jpg",
+      "modes": [
+        {
+          "id": "ill",
+          "mode": "KOTH"
+        }
+      ]
+    }
+  ]
+}
