@@ -145,5 +145,19 @@
     "type": "KOTH",
     "mode": "KOTH",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/ilios-thumb.jpg"
+  },
+  {
+    "id": "eic",
+    "name": "Eichenwalde",
+    "type": "Hybrid",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/media/screenshot/eichenwalde-screenshot-002.png"
+  },
+  {
+    "id": "eic",
+    "name": "Eichenwalde",
+    "type": "Hybrid",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/media/screenshot/eichenwalde-screenshot-002.png"
   }
 ]
