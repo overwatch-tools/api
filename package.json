@@ -7,9 +7,7 @@
     "node": "6.x"
   },
   "dependencies": {
-    "express": "4.14.0"
-  },
-  "devDependencies": {
+    "express": "4.14.0",
     "engine.io": "^1.6.11",
     "mongodb": "^2.2.5"
   },
