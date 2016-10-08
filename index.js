@@ -7,7 +7,7 @@ let heroesMsg = messageFactory.createMessage('heroes', require('./data/heroes.js
 let matchingMsg = messageFactory.createMessage('matching', require('./data/matching.json')).toString();
 let mapsMsg = messageFactory.createMessage('maps',  require('./data/maps.json')).toString();
 
-let server = engine.listen(80);
+let server = engine.listen(7654);
 
 server.on('connection', function (socket) {
     console.log('ccnnection requested');
